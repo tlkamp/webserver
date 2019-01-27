@@ -29,7 +29,7 @@ resource "aws_instance" "ubuntu-web" {
   key_name      = "udacity-webserver"
 
   tags {
-    Name = "Ubuntu Udacity Web"
+    Name = "Ubuntu Web"
   }
 }
 
