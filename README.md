@@ -1,6 +1,6 @@
 # webserver
 Infrastructure as code project for my personal web server
-using HashiCorp Terraform.
+using [HashiCorp Terraform](https://www.terraform.io/).
 
 ## Resources Built
 This project builds the following resources in AWS:
