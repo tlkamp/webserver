@@ -8,3 +8,5 @@ This project builds the following resources in AWS:
   * Ubuntu on `t2.micro`
 * AWS Elastic IP
   * This is important for the DNS records.
+* AWS Security Group (and rules)
+  * This allows traffic on specified ports.
